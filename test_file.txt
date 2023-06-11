@@ -1,0 +1,1 @@
+Halo semua, ini isi file test_file.txt
